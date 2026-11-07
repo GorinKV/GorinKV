@@ -22,8 +22,8 @@
 -->
 ## 📌 Мои проекты
 
-- [Название проекта](https://github.com/YOUR_USERNAME/repo) — короткое описание.
-- [Название проекта](https://github.com/YOUR_USERNAME/repo) — короткое описание.
+- [Telegram bot](https://github.com/GorinKV/universal-bot) — Телеграм бот для записи идей и ведения задач.
+- [Поиск места для парковки](https://github.com/GorinKV/car-detect) — Поиск места для парковки.
 
 ## 📫 Контакты
 
