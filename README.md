@@ -13,13 +13,13 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
+<!--
 ## 📊 Статистика GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GorinKV&show_icons=true&theme=default)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GorinKV&layout=compact)
-
+-->
 ## 📌 Мои проекты
 
 - [Название проекта](https://github.com/YOUR_USERNAME/repo) — короткое описание.
@@ -29,8 +29,9 @@
 
 - Email: **k.v.gorin@mail.ru**
 - Telegram: [@GorinKV](https://t.me/GorinKV)
+<!--
 - LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/username)
-
+-->
 <!--
 **GorinKV/GorinKV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
