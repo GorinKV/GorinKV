@@ -13,13 +13,11 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-<!--
+
 ## 📊 Статистика GitHub
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GorinKV&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GorinKV&layout=compact)
--->
 ## 📌 Мои проекты
 
 - [Telegram bot](https://github.com/GorinKV/universal-bot) — Телеграм бот для записи идей и ведения задач.
