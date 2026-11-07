@@ -15,8 +15,10 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 Статистика GitHub
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=GorinKV&show_icons=true)
+
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=GorinKV&layout=compact)
 
 ## 📌 Мои проекты
 
